@@ -29,7 +29,7 @@ How It Works
 
 
 Installation & Usage
-1. Clone the repository : ```bash git clone https://github.com/your-username/weather-app.git
+1. Clone the repository : ```bash https://github.com/pravakar-thapa/weather-application.git
 2. Open the project folder : cd weather-app
 3. Run the app : Simply open index.html in your browser
 
