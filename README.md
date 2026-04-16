@@ -3,6 +3,7 @@ A responsive weather web app that fetches real-time weather data using Open-Mete
 
 Weather App
 A simple and responsive weather application that allows users to search for any city and get real-time weather data.
+live Demo: https://weatherinhere.netlify.app/
 
 Features
 - Search weather by city name
